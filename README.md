@@ -7,13 +7,13 @@
 - Uvicorn
 - Pytest
 
-## O que foi adicionado nesse repositório
+## O que foi adicionado nesse repositório?
 
-   Foi adicionado o design pattern "Factory Method" sobre a classe "Match"
+   Foi adicionado o design pattern "Factory Method" a partir da classe "Match"
 
-   -Assim, foram adicionados o seguintes scripts:
-      - src/match_factory.py
-      - src/test/test_match_factory.py
+   -Assim, foram adicionados os seguintes scripts:<br>
+      <p>- src/match_factory.py<br>
+      <p>- src/test/test_match_factory.py<br>
 
 ## 🚀 Inicializando o Projeto
 
